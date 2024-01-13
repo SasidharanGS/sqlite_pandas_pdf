@@ -1,4 +1,4 @@
-#Automated PDF Report generation
+# Automated PDF Report generation
 <br>
 Optimise your Data Analysis workflow using:
 - SQLite
