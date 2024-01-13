@@ -1,6 +1,7 @@
 # Automated PDF Report generation
 <br>
-Optimise your Data Analysis workflow using:
+Optimise your Data Analysis workflow using
+
 - SQLite
 - Pandas
 - Plotly express
