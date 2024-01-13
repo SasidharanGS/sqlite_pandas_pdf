@@ -6,4 +6,5 @@ Optimise your Data Analysis workflow using
 - Pandas
 - Plotly express
 - FPDF
-in combination
+
+in combination.
